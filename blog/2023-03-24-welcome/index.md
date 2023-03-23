@@ -1,14 +1,14 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: mon-stage-a-decathlon
+title: Mon stage à Decathlon
+authors: [qassim]
+tags: [Stage, Decathlon, Informatique]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Bonjour à tous ,
+Je vais vous présenter dans ce blog mon stage effectué dans l'entreprise Decathlon , au coeur du systeme informatique.
 
-Simply add Markdown files (or folders) to the `blog` directory.
-
+==Decathlon== 
 Regular blog authors can be added to `authors.yml`.
 
 The blog post date can be extracted from filenames, such as:
