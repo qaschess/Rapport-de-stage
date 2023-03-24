@@ -6,7 +6,7 @@ tags: [Développeur, BackEnd]
 
 ## Un metier différents de celui du frontend
 
-Fabien est un developpeur backend.Son rôle consiste à travailler sur la partie "caché" d'un site ou d'une application , c'est à dire sur tout ce qui concerne le fonctionnement du site ou de l'application. Son métier est différent du metier de frontend. Les développeurs frontend s'occupent sur ce qui concerne la partie visible du site tels que les images présentées sur le site.
+Fabien est un developpeur backend. Son rôle consiste à travailler sur la partie "caché" d'un site ou d'une application, c'est à dire sur tout ce qui concerne le fonctionnement du site ou de l'application. Son métier est différent du metier de frontend. Les développeurs frontend s'occupent sur ce qui concerne la partie visible du site tels que les images présentées sur le site.
 
 ## Les différents types de language de programation
 
