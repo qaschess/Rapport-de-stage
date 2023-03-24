@@ -66,7 +66,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/qaschess/Rapport-de-stage',
             label: 'GitHub',
             position: 'right',
           },
