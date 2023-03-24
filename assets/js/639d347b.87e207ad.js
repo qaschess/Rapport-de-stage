@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[7170],{4245:e=>{e.exports=JSON.parse('{"label":"TechLead","permalink":"/blog/tags/tech-lead","allTagsPath":"/blog/tags","count":1}')}}]);

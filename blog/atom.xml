@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://jeremyjousse.github.io/blog/blog</id>
     <title>My Site Blog</title>
     <updated>2023-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://jeremyjousse.github.io/blog/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <icon>https://jeremyjousse.github.io/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mon stage à Decathlon]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/mon-stage-a-decathlon</id>
-        <link href="https://your-docusaurus-test-site.com/blog/mon-stage-a-decathlon"/>
+        <id>https://jeremyjousse.github.io/blog/blog/mon-stage-a-decathlon</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/mon-stage-a-decathlon"/>
         <updated>2023-03-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bonjour à tous ,]]></summary>
         <content type="html"><![CDATA[<p>Bonjour à tous ,
 Je vais vous présenter dans ce blog mon stage effectué dans l'entreprise Decathlon, au coeur du systeme informatique.
-Je vais vous présenter ce rapport de stage en 4 parties:</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="léquipe-intégrée-et-les-activités-faites-pendant-ce-stage">L'équipe intégrée et les activités faites pendant ce stage<a href="#léquipe-intégrée-et-les-activités-faites-pendant-ce-stage" class="hash-link" aria-label="Direct link to L'équipe intégrée et les activités faites pendant ce stage" title="Direct link to L'équipe intégrée et les activités faites pendant ce stage">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="les-métiers-découverts">Les métiers découverts<a href="#les-métiers-découverts" class="hash-link" aria-label="Direct link to Les métiers découverts" title="Direct link to Les métiers découverts">​</a></h2><p><a href="/blog/léa-product-owner">Le Product owner / Project manager</a><br>
-<a href="/blog/jeremy-tech-lead">Le Tech lead</a><br>
-<a href="/blog/alexendre-integrateur-email">L'Intégrateur email</a><br>
-<a href="/blog/julien-integrateur-salesforce">L'Intégrateur Salesforce Marketing Cloud</a><br>
-<a href="/blog/antoine-developpeur-frontend">Le Développeur frontend</a><br>
-<a href="/blog/fabien-developpeur-back-end">Le Développeur backend</a><br>
-<a href="/blog/jean-marc-ingenieur-qualite">Le Quality Engineer</a>  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="mes-impressions-sur-le-stage">Mes impressions sur le stage<a href="#mes-impressions-sur-le-stage" class="hash-link" aria-label="Direct link to Mes impressions sur le stage" title="Direct link to Mes impressions sur le stage">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ce-que-jai-appris">Ce que j'ai appris<a href="#ce-que-jai-appris" class="hash-link" aria-label="Direct link to Ce que j'ai appris" title="Direct link to Ce que j'ai appris">​</a></h2><p><img loading="lazy" alt="Photo" src="/assets/images/photo-d88990b4e7dfe770c17172c913660d1d.jpg" width="4032" height="2268" class="img_ev3q"></p><p>Bonne lecture !</p>]]></content>
+Je vais vous présenter ce rapport de stage en 4 parties:</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="léquipe-intégrée-et-les-activités-faites-pendant-ce-stage">L'équipe intégrée et les activités faites pendant ce stage<a href="#léquipe-intégrée-et-les-activités-faites-pendant-ce-stage" class="hash-link" aria-label="Direct link to L'équipe intégrée et les activités faites pendant ce stage" title="Direct link to L'équipe intégrée et les activités faites pendant ce stage">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="les-métiers-découverts">Les métiers découverts<a href="#les-métiers-découverts" class="hash-link" aria-label="Direct link to Les métiers découverts" title="Direct link to Les métiers découverts">​</a></h2><p><a href="/blog/blog/léa-product-owner">Le Product owner / Project manager</a><br>
+<a href="/blog/blog/jeremy-tech-lead">Le Tech lead</a><br>
+<a href="/blog/blog/alexendre-integrateur-email">L'Intégrateur email</a><br>
+<a href="/blog/blog/julien-integrateur-salesforce">L'Intégrateur Salesforce Marketing Cloud</a><br>
+<a href="/blog/blog/antoine-developpeur-frontend">Le Développeur frontend</a><br>
+<a href="/blog/blog/fabien-developpeur-back-end">Le Développeur backend</a><br>
+<a href="/blog/blog/jean-marc-ingenieur-qualite">Le Quality Engineer</a>  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="mes-impressions-sur-le-stage">Mes impressions sur le stage<a href="#mes-impressions-sur-le-stage" class="hash-link" aria-label="Direct link to Mes impressions sur le stage" title="Direct link to Mes impressions sur le stage">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="ce-que-jai-appris">Ce que j'ai appris<a href="#ce-que-jai-appris" class="hash-link" aria-label="Direct link to Ce que j'ai appris" title="Direct link to Ce que j'ai appris">​</a></h2><p><img loading="lazy" alt="Photo" src="/blog/assets/images/photo-d88990b4e7dfe770c17172c913660d1d.jpg" width="4032" height="2268" class="img_ev3q"></p><p>Bonne lecture !</p>]]></content>
         <author>
             <name>Qassim Taleb</name>
             <uri>https://github.com/qaschess</uri>
@@ -32,40 +32,40 @@ Je vais vous présenter ce rapport de stage en 4 parties:</p><h2 class="anchor a
     </entry>
     <entry>
         <title type="html"><![CDATA[decathlon]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/2023/03/23/2023-03-24-welcome/decathlon</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2023/03/23/2023-03-24-welcome/decathlon"/>
+        <id>https://jeremyjousse.github.io/blog/blog/2023/03/23/2023-03-24-welcome/decathlon</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/2023/03/23/2023-03-24-welcome/decathlon"/>
         <updated>2023-03-23T00:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alexandre, un intégrateur e-mail]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/alexendre-integrateur-email</id>
-        <link href="https://your-docusaurus-test-site.com/blog/alexendre-integrateur-email"/>
+        <id>https://jeremyjousse.github.io/blog/blog/alexendre-integrateur-email</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/alexendre-integrateur-email"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <category label="Intégrateur" term="Intégrateur"/>
         <category label="e-mail" term="e-mail"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antoine, un développeur frontend]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/antoine-developpeur-frontend</id>
-        <link href="https://your-docusaurus-test-site.com/blog/antoine-developpeur-frontend"/>
+        <id>https://jeremyjousse.github.io/blog/blog/antoine-developpeur-frontend</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/antoine-developpeur-frontend"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <category label="Développeur" term="Développeur"/>
         <category label="Frontend" term="Frontend"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fabien ,un développeur du BackEnd]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/fabien-developpeur-back-end</id>
-        <link href="https://your-docusaurus-test-site.com/blog/fabien-developpeur-back-end"/>
+        <id>https://jeremyjousse.github.io/blog/blog/fabien-developpeur-back-end</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/fabien-developpeur-back-end"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Un metier différents de celui du frontend]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="un-metier-différents-de-celui-du-frontend">Un metier différents de celui du frontend<a href="#un-metier-différents-de-celui-du-frontend" class="hash-link" aria-label="Direct link to Un metier différents de celui du frontend" title="Direct link to Un metier différents de celui du frontend">​</a></h2><p>Fabien est un developpeur backend. Son rôle consiste à travailler sur la partie "caché" d'un site ou d'une application, c'est à dire sur tout ce qui concerne le fonctionnement du site ou de l'application. Son métier est différent du metier de frontend. Les développeurs frontend s'occupent sur ce qui concerne la partie visible du site tels que les images présentées sur le site.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="les-différents-types-de-language-de-programation">Les différents types de language de programation<a href="#les-différents-types-de-language-de-programation" class="hash-link" aria-label="Direct link to Les différents types de language de programation" title="Direct link to Les différents types de language de programation">​</a></h2><p>Le développeur backend utilise différents language de programmation pour pouvoir assurer le fonctionnement d'une application ou d'un site. Parmi tous ces languages, on distingue notamment le language <a href="https://www.java.com/fr/" target="_blank" rel="noopener noreferrer">Java</a> pour les applications et le language <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="_blank" rel="noopener noreferrer">SQL</a> pour interagire avec les bases de  données.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="mise-à-disposition-des-applications-crées">Mise à disposition des applications crées<a href="#mise-à-disposition-des-applications-crées" class="hash-link" aria-label="Direct link to Mise à disposition des applications crées" title="Direct link to Mise à disposition des applications crées">​</a></h2><p>Une fois que le développeur backend créee ses applications et souhaite le mettre à disposition, il met ses apllications sur des serveurs à l'aide d'autres développeurs , nommées les ops.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="le-bon-fonctionnement-de-ses-applications">Le bon fonctionnement de ses applications<a href="#le-bon-fonctionnement-de-ses-applications" class="hash-link" aria-label="Direct link to Le bon fonctionnement de ses applications" title="Direct link to Le bon fonctionnement de ses applications">​</a></h2><p>Le développeur backend , une fois ses applications crée , fait appel à des testeurs comme <a href="/blog/jean-marc-ingenieur-qualite">Jean Marc</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-avis-sur-linformatique">Son avis sur l'informatique<a href="#son-avis-sur-linformatique" class="hash-link" aria-label="Direct link to Son avis sur l'informatique" title="Direct link to Son avis sur l'informatique">​</a></h2><blockquote><p>L'informatique , c'est comme les math : ce n’est pas des matières où tu dois beaucoup apprendre, c'est des matières où tu dois surtout comprendre.</p></blockquote><p>Fabien Marissel,développeur backend</p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="un-metier-différents-de-celui-du-frontend">Un metier différents de celui du frontend<a href="#un-metier-différents-de-celui-du-frontend" class="hash-link" aria-label="Direct link to Un metier différents de celui du frontend" title="Direct link to Un metier différents de celui du frontend">​</a></h2><p>Fabien est un developpeur backend. Son rôle consiste à travailler sur la partie "caché" d'un site ou d'une application, c'est à dire sur tout ce qui concerne le fonctionnement du site ou de l'application. Son métier est différent du metier de frontend. Les développeurs frontend s'occupent sur ce qui concerne la partie visible du site tels que les images présentées sur le site.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="les-différents-types-de-language-de-programation">Les différents types de language de programation<a href="#les-différents-types-de-language-de-programation" class="hash-link" aria-label="Direct link to Les différents types de language de programation" title="Direct link to Les différents types de language de programation">​</a></h2><p>Le développeur backend utilise différents language de programmation pour pouvoir assurer le fonctionnement d'une application ou d'un site. Parmi tous ces languages, on distingue notamment le language <a href="https://www.java.com/fr/" target="_blank" rel="noopener noreferrer">Java</a> pour les applications et le language <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language" target="_blank" rel="noopener noreferrer">SQL</a> pour interagire avec les bases de  données.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="mise-à-disposition-des-applications-crées">Mise à disposition des applications crées<a href="#mise-à-disposition-des-applications-crées" class="hash-link" aria-label="Direct link to Mise à disposition des applications crées" title="Direct link to Mise à disposition des applications crées">​</a></h2><p>Une fois que le développeur backend créee ses applications et souhaite le mettre à disposition, il met ses apllications sur des serveurs à l'aide d'autres développeurs , nommées les ops.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="le-bon-fonctionnement-de-ses-applications">Le bon fonctionnement de ses applications<a href="#le-bon-fonctionnement-de-ses-applications" class="hash-link" aria-label="Direct link to Le bon fonctionnement de ses applications" title="Direct link to Le bon fonctionnement de ses applications">​</a></h2><p>Le développeur backend , une fois ses applications crée , fait appel à des testeurs comme <a href="/blog/blog/jean-marc-ingenieur-qualite">Jean Marc</a></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-avis-sur-linformatique">Son avis sur l'informatique<a href="#son-avis-sur-linformatique" class="hash-link" aria-label="Direct link to Son avis sur l'informatique" title="Direct link to Son avis sur l'informatique">​</a></h2><blockquote><p>L'informatique , c'est comme les math : ce n’est pas des matières où tu dois beaucoup apprendre, c'est des matières où tu dois surtout comprendre.</p></blockquote><p>Fabien Marissel,développeur backend</p>]]></content>
         <category label="Développeur" term="Développeur"/>
         <category label="BackEnd" term="BackEnd"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jean-Marc Ingénieur qualité]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/jean-marc-ingenieur-qualite</id>
-        <link href="https://your-docusaurus-test-site.com/blog/jean-marc-ingenieur-qualite"/>
+        <id>https://jeremyjousse.github.io/blog/blog/jean-marc-ingenieur-qualite</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/jean-marc-ingenieur-qualite"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Un rôle particulier]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="un-rôle-particulier">Un rôle particulier<a href="#un-rôle-particulier" class="hash-link" aria-label="Direct link to Un rôle particulier" title="Direct link to Un rôle particulier">​</a></h2><p>Jean-Marc est un testeur QE (Quality Engineer ou Ingénieur qualité).Le rôle du Testeur QA est de garantir le bon fonctionnement des logiciels en trouvant les bugs et problèmes potentiels d’un logiciel en les testant régulièrement.Il est chargé de garantir la qualité globale des produits fabriqués. Il teste les processus de fabrication, assure le suivi des normes de qualité, rédige la documentation, met au point des tests de qualité et définit les critères auxquels un résultat de test doit répondre</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-intégration-avec-léquipe">Son intégration avec l'équipe<a href="#son-intégration-avec-léquipe" class="hash-link" aria-label="Direct link to Son intégration avec l'équipe" title="Direct link to Son intégration avec l'équipe">​</a></h2><p>.po=product owner , pm=product manager , 1 testeur (QE)
@@ -78,8 +78,8 @@ Maintenance à faire</p><ul><li>Q1 Cadran 1</li><li>Q2 Cadran 2 test fonctionnel
     </entry>
     <entry>
         <title type="html"><![CDATA[Jeremy , un TechLead]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/jeremy-tech-lead</id>
-        <link href="https://your-docusaurus-test-site.com/blog/jeremy-tech-lead"/>
+        <id>https://jeremyjousse.github.io/blog/blog/jeremy-tech-lead</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/jeremy-tech-lead"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Metier]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="metier">Metier<a href="#metier" class="hash-link" aria-label="Direct link to Metier" title="Direct link to Metier">​</a></h2>]]></content>
@@ -88,8 +88,8 @@ Maintenance à faire</p><ul><li>Q1 Cadran 1</li><li>Q2 Cadran 2 test fonctionnel
     </entry>
     <entry>
         <title type="html"><![CDATA[Julien intégrateur Salesforce]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/julien-integrateur-salesforce</id>
-        <link href="https://your-docusaurus-test-site.com/blog/julien-integrateur-salesforce"/>
+        <id>https://jeremyjousse.github.io/blog/blog/julien-integrateur-salesforce</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/julien-integrateur-salesforce"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Etude]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="etude">Etude<a href="#etude" class="hash-link" aria-label="Direct link to Etude" title="Direct link to Etude">​</a></h2><p>Ingénieur recherche et développement =devellopeur dans <a href="https://www.salesforce.com/fr/products/marketing-cloud/overview/" target="_blank" rel="noopener noreferrer">salesforce</a><br>
@@ -101,8 +101,8 @@ Maintenance à faire</p><ul><li>Q1 Cadran 1</li><li>Q2 Cadran 2 test fonctionnel
     </entry>
     <entry>
         <title type="html"><![CDATA[Léa , une product owner]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/léa-product-owner</id>
-        <link href="https://your-docusaurus-test-site.com/blog/léa-product-owner"/>
+        <id>https://jeremyjousse.github.io/blog/blog/léa-product-owner</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/léa-product-owner"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Son rôle]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="son-rôle">Son rôle<a href="#son-rôle" class="hash-link" aria-label="Direct link to Son rôle" title="Direct link to Son rôle">​</a></h2><p>role de léa</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="philosophie-utilisée-pour-suivre-les-projets">Philosophie utilisée pour suivre les projets<a href="#philosophie-utilisée-pour-suivre-les-projets" class="hash-link" aria-label="Direct link to Philosophie utilisée pour suivre les projets" title="Direct link to Philosophie utilisée pour suivre les projets">​</a></h2><p>methodologie utilisée</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="outils-mis-à-disposition-pour-suivre-les-projets">Outils mis à disposition pour suivre les projets<a href="#outils-mis-à-disposition-pour-suivre-les-projets" class="hash-link" aria-label="Direct link to Outils mis à disposition pour suivre les projets" title="Direct link to Outils mis à disposition pour suivre les projets">​</a></h2><p>outils de léa</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="etudes-à-suivre-pour-ce-métier">Etudes à suivre pour ce métier<a href="#etudes-à-suivre-pour-ce-métier" class="hash-link" aria-label="Direct link to Etudes à suivre pour ce métier" title="Direct link to Etudes à suivre pour ce métier">​</a></h2><p>etudes</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="la-taille-de-son-équipe">La taille de son équipe<a href="#la-taille-de-son-équipe" class="hash-link" aria-label="Direct link to La taille de son équipe" title="Direct link to La taille de son équipe">​</a></h2><p>lorem ipsum</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="les-autres-rôles-de-son-équipe">Les autres rôles de son équipe<a href="#les-autres-rôles-de-son-équipe" class="hash-link" aria-label="Direct link to Les autres rôles de son équipe" title="Direct link to Les autres rôles de son équipe">​</a></h2><p>lorem ipsum caesar</p>]]></content>
@@ -111,8 +111,8 @@ Maintenance à faire</p><ul><li>Q1 Cadran 1</li><li>Q2 Cadran 2 test fonctionnel
     </entry>
     <entry>
         <title type="html"><![CDATA[Mes impressions sur le stage]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/mes-impressions</id>
-        <link href="https://your-docusaurus-test-site.com/blog/mes-impressions"/>
+        <id>https://jeremyjousse.github.io/blog/blog/mes-impressions</id>
+        <link href="https://jeremyjousse.github.io/blog/blog/mes-impressions"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
         <category label="Impressions" term="Impressions"/>
         <category label="Stage" term="Stage"/>
