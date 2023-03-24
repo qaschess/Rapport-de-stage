@@ -6,12 +6,15 @@ tags: [Stage, Decathlon, Informatique]
 ---
 
 Bonjour à tous et bienvenue sur mon site !  
-Moi , **Qassim TALEB** , actuellement en classe de 2°1 au lycée **Saint-Adrien La Salle** vais vous présenter dans ce site mon stage effectué dans l'entreprise **Decathlon** , au coeur du **systeme informatique au niveau mondial** de l'entreprise, situé à Croix.  
+
+Moi , **Qassim TALEB** , actuellement en classe de 2°1 au lycée **Saint-Adrien La Salle**, vais vous présenter dans ce site mon stage effectué dans l'entreprise **Decathlon** , au coeur du **systeme informatique au niveau mondial** de l'entreprise, situé à Croix.  
+
 Je vais vous présenter ce rapport de stage en 4 parties:
 
 ## L'équipe intégrée et les activités faites pendant ce stage
 
-- [L'équipe MarTech](../2023-03-22-equipemartech.md)
+- [L'équipe MarTech](../2023-03-22-equipemartech.md)  
+- [Le secteur d'activité intégré]()
 
 ## Les métiers découverts
 
@@ -25,7 +28,11 @@ Je vais vous présenter ce rapport de stage en 4 parties:
 
 ## Mes impressions sur le stage
 
+- [Mes Impressions sur le stage effectué à Decathlon](../2023-03-22-mes-impressions.md)
+
 ## Ce que j'ai appris
+
+- [Ce que j'ai appris de ce stage](../2023-03-22-ce-que-j-ai-appris.md)
 
 ![Photo](./photo.jpg)
 

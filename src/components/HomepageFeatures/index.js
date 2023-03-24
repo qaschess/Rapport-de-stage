@@ -36,7 +36,7 @@ const FeatureList = [
     Svg: require('@site/static/img/oip.svg').default,
     description: (
       <>
-       Pour commencer de lire ce rapport de stage , vous pouvez cliquer <Link to="blog/bienvenue">ici</Link>
+       Pour commencer de lire ce rapport de stage , vous pouvez cliquer <Link to="blog/">ici</Link>
       </>
     ),
   },
