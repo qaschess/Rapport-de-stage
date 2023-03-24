@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qaschess.github.io/Rapport-de-stage/blog</id>
-    <title>My Site Blog</title>
+    <title>Mon Site Blog</title>
     <updated>2023-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qaschess.github.io/Rapport-de-stage/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Mon Site Blog</subtitle>
     <icon>https://qaschess.github.io/Rapport-de-stage/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bienvenue !]]></title>
@@ -35,6 +35,8 @@
         <id>https://qaschess.github.io/Rapport-de-stage/blog/alexendre-integrateur-email</id>
         <link href="https://qaschess.github.io/Rapport-de-stage/blog/alexendre-integrateur-email"/>
         <updated>2023-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alexandre est intégrateur e-mail. Son rôle est de faire l’intégration des messages et de développer des scripts, il travaille sur le Salersforce Marketing Cloud avec des mails transactionnels.]]></summary>
+        <content type="html"><![CDATA[<p>Alexandre est intégrateur e-mail. Son rôle est de faire l’intégration des messages et de développer des scripts, il travaille sur le Salersforce Marketing Cloud avec des mails transactionnels.</p><p>Une mail transactionnel est un e-mail envoyé à un destinataire individuel après que celui-ci a effectué une transaction commerciale ou une action spécifique, comme un achat dans votre boutique connectée ou une demande de réinitialisation de mot de passe.</p><p>Les mails relationnels sont eux un message envoyé par décathlon pour informer un client sur un nouveau produit ou pour annoncer une promo par exemple, ce mail est une relation entre l’entreprise et le client.</p><p>Il code le contenu en HTML et met en forme ce mail avec le langage CSS. Son travail consiste à transformer des maquettes Figma en vrais pages HTML. Il utilise ces scripts pour faciliter le déploiement et organiser les sites. Il nous a montré un site qui contient beaucoup d’informations, que se soit sur les produits ou les magasins dans différents pays. Il nous a enfin expliqué que son métier contient beaucoup d’activités et nécessite de certaines compétences, tels que des compétences dans le développement ou bien dans la gestion des problématiques. Il fait du frontend mais seulement dans les mails, direcetement dans salesforce.</p>]]></content>
         <category label="Intégrateur" term="Intégrateur"/>
         <category label="e-mail" term="e-mail"/>
     </entry>
