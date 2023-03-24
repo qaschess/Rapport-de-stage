@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Mon Site',
   tagline: 'Mon rapport de stage',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/home.ico',
 
   // Set the production url of your site here
   url: 'https://qaschess.github.io',
