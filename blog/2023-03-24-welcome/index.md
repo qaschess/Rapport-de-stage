@@ -5,11 +5,13 @@ authors: [qassim]
 tags: [Stage, Decathlon, Informatique]
 ---
 
-Bonjour à tous ,
-Je vais vous présenter dans ce blog mon stage effectué dans l'entreprise Decathlon, au coeur du systeme informatique.
+Bonjour à tous , 
+Je vais vous présenter dans ce blog mon stage effectué dans l'entreprise Decathlon, au coeur du systeme informatique. 
 Je vais vous présenter ce rapport de stage en 4 parties:
 
 ## L'équipe intégrée et les activités faites pendant ce stage
+
+
 
 ## Les métiers découverts
 

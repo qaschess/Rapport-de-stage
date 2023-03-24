@@ -10,6 +10,10 @@ Jean-Marc est un testeur QE (Quality Engineer ou Ingénieur qualité).Le rôle d
 
 ## Son intégration avec l'équipe
 
+y
+
+## 
+
 .po=product owner , pm=product manager , 1 testeur (QE)
 Canban=tableau organisation projet
 
