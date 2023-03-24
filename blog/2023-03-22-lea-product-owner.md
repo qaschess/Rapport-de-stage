@@ -1,5 +1,5 @@
 ---
-slug: léa-product-owner
+slug: lea-product-owner
 title: Léa , une product owner
 tags: [Product, Manager]
 ---

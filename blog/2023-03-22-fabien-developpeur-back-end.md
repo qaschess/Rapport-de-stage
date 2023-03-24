@@ -20,6 +20,10 @@ Une fois que le développeur backend créee ses applications et souhaite le mett
 
 Le développeur backend , une fois ses applications crée , fait appel à des testeurs comme [Jean Marc](./2023-03-22-jean-marc-quality-engineer.md)
 
+## Les études pour devenir développeur
+
+Le développeur 
+
 ## Son avis sur l'informatique
 
 > L'informatique , c'est comme les math : ce n’est pas des matières où tu dois beaucoup apprendre, c'est des matières où tu dois surtout comprendre.
