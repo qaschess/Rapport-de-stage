@@ -5,7 +5,7 @@ tags: [salesforce, intégrateur]
 ---
 ## Etude
 
-Ingénieur recherche et développement =devellopeur de [salesforce](https://www.salesforce.com/fr/products/marketing-cloud/overview/)  
+Ingénieur recherche et développement =devellopeur dans [salesforce](https://www.salesforce.com/fr/products/marketing-cloud/overview/)  
 Surtout notre boulot ça a été de passer de ça donc hop quand tu fais créer un email.  
 Tu vas partir de rien comme d'une page blanche donc là l'utilisateur il devait tout faire tout tout développer faire des drag drop avec différents blocs donc l'inconvénient c'est que tu a parfois un mail qui n'a aucun rapport et donc on passe pour des blaireaux auprès de nos clients le donc nous ce qu'on a développé.  
 c'est le United template donc on leur met à disposition une coquille qu'on va du coup sélectionner hop template okay United hop et donc du coup on a le header le footer de notre de notre mail et l'utilisateur a juste à faire glisser ce qui ce qu'il souhaite de nous voilà donc on a finalement quelque chose qui est uniforme entre entre tous les pays et ça on garantit que ça fonctionne que ce soit sur mobile comme sur tablette comme sur PC donc voilà donc ça évite ça évite le support le support qu'est-ce que c'est c'est quand t'as un utilisateur qui est pas content il nous fait un ticket et nous on essaie de traiter son problème et le l'inconvénient de ça c'est que bah moi ça nous fait chier parce que on ça nous pète ça nous nous casse notre développement et c'est extrêmement chronophage et nos pensées chronophage on n'aime pas voili voilou pour le United template bon c'est à peu près tout sur ce que je pouvais présenter mais du coup 
