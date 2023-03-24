@@ -14,7 +14,7 @@ Je vais vous présenter ce rapport de stage en 4 parties:
 ## Les métiers découverts
 
 [Le Product owner / Project manager](../2023-03-22-l%C3%A9a-product-owner.md)  
-[Le Tech lead](../2023-03-22-jeremy-tech-lead)  
+[Le Tech lead](../2023-03-22-jeremy-tech-lead.md)  
 [L'Intégrateur email](../2023-03-22-alexandre-integrateur-e-mail.md)  
 [L'Intégrateur Salesforce Marketing Cloud](../2023-03-22-julien-integrateur-salesforce.md)  
 [Le Développeur frontend](../2023-03-22-antoine-developpeur-frontend.md)  
