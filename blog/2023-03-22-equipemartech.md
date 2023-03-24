@@ -1,6 +1,6 @@
 ---
 slug: equipe-martech
-title: L'équipe de MarTech, une équipe mondial
+title: L'équipe de MarTech, une équipe autour du mondial
 tags: [équipe, mondial]
 ---
 
