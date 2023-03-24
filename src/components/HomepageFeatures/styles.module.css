@@ -9,3 +9,8 @@
   height: 200px;
   width: 200px;
 }
+
+.rowCenter {
+  align-items: center;
+  justify-content: center;
+}

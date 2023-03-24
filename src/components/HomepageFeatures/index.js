@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Pourquoi un blog ?',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/point.svg').default,
     description: (
       <>
        Dans le cadre d'un projet mis en place par le maître de stage je devais créer un blog avec des languages informatique tels que javascript
@@ -33,7 +33,7 @@ const FeatureList = [
   },
   {
     title: 'Comment commencer de lire le rapport de stage?',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/oip.svg').default,
     description: (
       <>
        Pour commencer de lire ce rapport de stage , vous pouvez cliquer <Link to="blog/bienvenue">ici</Link>
@@ -60,7 +60,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
+        <div className={`row ${styles.rowCenter}`}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
