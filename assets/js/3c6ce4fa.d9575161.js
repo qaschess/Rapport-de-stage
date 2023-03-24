@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2359],{3699:e=>{e.exports=JSON.parse('{"permalink":"/Rapport-de-stage/blog/tags/decathlon","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

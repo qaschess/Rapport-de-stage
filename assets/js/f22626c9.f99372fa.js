@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[6707],{8843:e=>{e.exports=JSON.parse('{"label":"salesforce","permalink":"/Rapport-de-stage/blog/tags/salesforce","allTagsPath":"/Rapport-de-stage/blog/tags","count":1}')}}]);

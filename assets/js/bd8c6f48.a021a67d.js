@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1402],{6575:a=>{a.exports=JSON.parse('{"label":"martech","permalink":"/Rapport-de-stage/blog/tags/martech","allTagsPath":"/Rapport-de-stage/blog/tags","count":1}')}}]);

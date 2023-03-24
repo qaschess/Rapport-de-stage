@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9703],{4708:e=>{e.exports=JSON.parse('{"permalink":"/Rapport-de-stage/blog/tags/coordiner","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

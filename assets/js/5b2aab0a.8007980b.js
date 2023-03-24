@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[8513],{8326:a=>{a.exports=JSON.parse('{"label":"mondial","permalink":"/Rapport-de-stage/blog/tags/mondial","allTagsPath":"/Rapport-de-stage/blog/tags","count":1}')}}]);
