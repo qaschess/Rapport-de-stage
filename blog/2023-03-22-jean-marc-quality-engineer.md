@@ -16,9 +16,11 @@ Canban=tableau organisation projet
 QE = teste manuel /automatisé ( = faire par un robot (en code) (exsélénium avec plug-in peremet de créer un chtrome et permet d’acceder au sites) Sélectionner panel a jouer sur les différents panels
 Automatisme permet de faire + rapidement actions
 Maintenance à faire
-Q1 Cadran 1
-Q2 Cadran 2 test fonctionnel = environnement qualité copie prod modifiée
-Q3 Test d’acceptance + communication
-Q4 Test de performance et de sécurité cadran 4 permet de voir si on pousse dans ses retranchement si ca marche
+
+- Q1 Cadran 1
+- Q2 Cadran 2 test fonctionnel = environnement qualité copie prod modifiée
+- Q3 Test d’acceptance + communication
+- Q4 Test de performance et de sécurité cadran 4 permet de voir si on pousse dans ses retranchement si ca marche
+
 Testeur / Homologateur
 [poete](https://free.fr)
