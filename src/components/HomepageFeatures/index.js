@@ -1,5 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const FeatureList = [
@@ -27,6 +28,15 @@ const FeatureList = [
     description: (
       <>
         Ce rapport de stage presentera les différents métiers découvert au sein du système informatique de Decathlon.
+      </>
+    ),
+  },
+  {
+    title: 'Comment commencer de lire le rapport de stage?',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+       Pour commencer de lire ce rapport de stage , vous pouvez cliquer <Link to="blog/bienvenue">ici</Link>
       </>
     ),
   },
