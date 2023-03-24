@@ -22,7 +22,7 @@ Le développeur backend , une fois ses applications crée , fait appel à des te
 
 ## Les études pour devenir développeur
 
-Le développeur backend 
+Le développeur backend doit faire
 
 ## Son avis sur l'informatique
 
