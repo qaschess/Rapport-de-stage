@@ -7,19 +7,24 @@ tags: [Stage, Decathlon, Informatique]
 
 Bonjour à tous ,
 Je vais vous présenter dans ce blog mon stage effectué dans l'entreprise Decathlon , au coeur du systeme informatique.
+Je vais vous présenter ce rapport de stage en 4 parties:
 
-==Decathlon== 
-Regular blog authors can be added to `authors.yml`.
+## L'équipe intégrée et les activités faites pendant ce stage
 
-The blog post date can be extracted from filenames, such as:
+## Les métiers découverts
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+[Le Product owner / Project manager](../2023-03-22-l%C3%A9a-product-owner.md)  
+[Le Tech lead](../2023-03-22-jeremy-tech-lead)  
+[L'Intégrateur email](../2023-03-22-alexandre-integrateur-e-mail.md)  
+[L'Intégrateur Salesforce Marketing Cloud](../2023-03-22-julien-integrateur-salesforce.md)  
+[Le Développeur frontend](../2023-03-22-antoine-developpeur-frontend.md)  
+[Le Développeur backend](../2023-03-22-fabien-developpeur-back-end.md)  
+[Le Quality Engineer](../2023-03-22-jean-marc-quality-engineer.md)  
 
-A blog post folder can be convenient to co-locate blog post images:
+## Mes impressions sur le stage
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+## Ce que j'ai appris
 
-The blog supports tags as well!
+![Photo](./photo.jpg)
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Bonne lecture !
