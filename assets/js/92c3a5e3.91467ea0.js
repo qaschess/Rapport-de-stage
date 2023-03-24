@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9612],{2622:e=>{e.exports=JSON.parse('{"label":"coordiner","permalink":"/blog/tags/coordiner","allTagsPath":"/blog/tags","count":1}')}}]);
